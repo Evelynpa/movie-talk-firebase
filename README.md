@@ -37,7 +37,6 @@ Conexión Firebase | realizado con JQuery y metodos de Firebase
 ###### Imágenes del maquetado
 ![sketch primero](https://s9.postimg.org/a8n4j3gpr/image.jpg)
 
-![sketch final](https://s9.postimg.org/e50gf7rgf/image.jpg)
 
 
 ##### 5) ¿viernes?

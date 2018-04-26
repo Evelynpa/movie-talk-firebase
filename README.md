@@ -1,4 +1,4 @@
-# MOVIE TALK ![logo](https://s9.postimg.org/a7d6q2rv3/image.jpg)
+# MOVIE TALK ![logo.png](https://s31.postimg.cc/pib62wbqj/logo.png)
 
 ### Objetivo Específico
 

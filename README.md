@@ -11,7 +11,6 @@
 ###### A través de entrevistas que se realizaron a diez personas dentro de Laboratoria, llegamos a una conclusión de que siete de ellas ocupan la web para ver películas y para decidir que película ver prefieren navegar buscando criticas u opiniones o ven el trailer.
 
 ###### Imágen de entrevistas
-![entrevistas](https://s9.postimg.org/azfuoovvz/image.jpg)
 
 ##### 3) ¿Organización?
 ###### Cada día se realizó un daily y al final de la hora se realiza una retrospectiva, se realizan commit diarios 
@@ -24,7 +23,6 @@ Dubrassca | Sketch, UX, Maquetado página de principal, estructura y diseño.
 Evelyn | Sketch, uso de API, Maquetado página de reviews, autenticación usuario.
 
 ###### Imágen organización
-![organización](https://s9.postimg.org/trrpshxhr/image.jpg)
 
 ##### 4) ¿Avance?
 ###### Maquetado, Transiciones de pantallas, conexión a API y Firebase, trabajando en la funcionalidad.
